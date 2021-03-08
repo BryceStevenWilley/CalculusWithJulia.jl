@@ -73,7 +73,7 @@ A graphing calculator makes it very easy to produce a graph. `Julia`, using the 
 
 - [Transformations of Functions](precalc/transformations.html)
 
-- [Inverse Runctions](precalc/inversefunctions.html)
+- [Inverse Functions](precalc/inversefunctions.html)
 
 #### Polynomials
 

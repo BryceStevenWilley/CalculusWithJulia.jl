@@ -333,7 +333,7 @@ Let `x = 4`. Compute $y=100 - 2x - x^2$. What is the value:
 
 ```julia; echo=false;
 x = 4
-y =- 100 - 2x - x^2
+y = 100 - 2x - x^2
 numericq(y, 0.1)
 ```
 

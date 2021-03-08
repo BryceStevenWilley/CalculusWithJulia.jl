@@ -569,7 +569,7 @@ sqrt(11^2 + 12^2)
 ##### Example
 
 A formula from statistics to compute the variance of binomial random variable for parameters $p$ and $n$
-is $\sqrt{p (1-p)/10}$. Compute this value for $p=1/4$ and $n=10$.
+is $\sqrt{p (1-p)/n}$. Compute this value for $p=1/4$ and $n=10$.
 
 ```julia;
 sqrt((1/4 * (1 - 1/4)) / 10)
